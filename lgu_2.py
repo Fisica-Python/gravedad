@@ -92,5 +92,4 @@ if opcion == 2:
 
     #Hallamos la aceleración gravitatoria en dicho astro:
     print('')
-    print ('La aceleración gravitatoria en el astro es',
-    g_astro(M,R), 'm/s^2')
+    print ('La aceleración gravitatoria en el astro es', g_astro(M,R), 'm/s^2')
