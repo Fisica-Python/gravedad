@@ -34,7 +34,7 @@ def Peso(masa,g_astro,astro):
     peso = "{0:.2f}".format(peso) #para redondear a 2 decimales
     print('El peso en', astro, ' es ', peso, 'Newtons')
 
-# Como vemos, la función peso nos imprime el peso en cierto astro,
+# La función peso nos imprime el peso en cierto astro,
 # a partir de tres parámetros: la masa, la aceleración gravitatoria y el 
 # nombre del astro.
 
